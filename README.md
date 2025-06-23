@@ -1,4 +1,4 @@
-# Affordmed URL Shortener & Logging Middleware
+# URL Shortener & Logging Middleware
 
 This repository contains two main components:
 
